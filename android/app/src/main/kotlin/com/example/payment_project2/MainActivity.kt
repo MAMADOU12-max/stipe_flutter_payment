@@ -1,0 +1,6 @@
+package com.example.payment_project2
+
+import io.flutter.embedding.android.FlutterFragmentActivity
+
+class MainActivity: FlutterFragmentActivity() {
+}
